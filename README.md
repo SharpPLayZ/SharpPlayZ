@@ -1,4 +1,4 @@
-<image alt="logo" width="100%" src="https://github.com/SharpPLayZ/SharpPlayZ/blob/main/GitHub%20Profile.png">
+<image alt="logo" width="100%" src="https://github.com/SharpPLayZ/SharpPlayZ/blob/main/GitHub%20Profile%20Banner.png">
 
 <h1 align="center">Hi 👋, I'm Muhammad Muneeb Tahir</h1>
 <h3 align="center">A passionate Full-Stack/DevOps developer from Pakistan</h3>
