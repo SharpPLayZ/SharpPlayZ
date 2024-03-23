@@ -13,9 +13,12 @@
 
 - 💬 Ask me about **Technology**
 
-- 📫 How to reach me **Not Avalible Now**
+- 📫 How to reach me **Not Available Now**
 
-- ⚡ Fun fact: **The World First Programming Language was "Analytical Engine Algorithm"**
+- ⚡ Fun fact: **The World's First Programming Language was "Analytical Engine Algorithm"**
+
+---
+[![](https://visitcount.itsvg.in/api?id=SharpPlayZ&icon=0&color=4)](https://visitcount.itsvg.in)
 
 
 # 💻 Tech Stack:
@@ -71,8 +74,5 @@
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=SharpPlayZ&icon=0&color=4)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
