@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm Muhammad Muneeb Tahir</h1>
 <h3 align="center">A passionate Full-Stack/DevOps developer from Pakistan</h3>
 
+<img align="right" alt="coding" width="300px" src="https://github.com/SharpPLayZ/SharpPlayZ/assets/137993178/d60662a5-2c30-448d-bd88-dc38b07abe61">
+
 - 🔭 I’m currently working on **Auto Meme generator**
 
 - 🌱 I’m currently learning **Python**
