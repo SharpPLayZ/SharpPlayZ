@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Auto Meme generator**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **DSA (Data Structures And Algorithms)**
 
 - 👯 I’m looking to collaborate **with other researchers**
 
